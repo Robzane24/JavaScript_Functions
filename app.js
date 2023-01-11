@@ -10,6 +10,7 @@ function printOdds(count){
         }
     }
 }
+printOdds(100)
 
 // Exercise 2 Section
 console.log("EXERCISE 2:\n==========\n");
@@ -46,6 +47,7 @@ if (x > 0 && y > 0){
         return "Origin";
     }
 }
+checkQuadrant(1, 2)
 
 // Exercise 4 Section 
 console.log("EXERCISE 4: \n==========\n");
